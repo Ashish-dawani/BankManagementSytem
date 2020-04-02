@@ -1,0 +1,353 @@
+# depslib dependency file v1.0
+1493141275 source:c:\users\ali\desktop\bank\bank.cpp
+	"bank.h"
+	<cstring>
+	<iomanip>
+	"gotoxy.h"
+
+1493141299 c:\users\ali\desktop\bank\bank.h
+	<iostream>
+
+1494948950 source:c:\users\ali\desktop\bank\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"bank.h"
+	"login.h"
+	"person.h"
+	"Customer.h"
+	"Employee.h"
+	"gotoxy.h"
+	"accounts.h"
+	"teller.h"
+	"manager.h"
+
+1494935768 c:\users\ali\desktop\bank\login.h
+	<iostream>
+	<cstring>
+
+1494953234 source:c:\users\ali\desktop\bank\login.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<string>
+	"login.h"
+	"gotoxy.h"
+
+1491450665 source:c:\qt\bank\bank.cpp
+	"bank.h"
+	<cstring>
+	<iomanip>
+
+1491452948 c:\qt\bank\bank.h
+	<iostream>
+
+1491722532 source:c:\qt\bank\login.cpp
+	<iostream>
+	"login.h"
+	<fstream>
+	<iomanip>
+
+1491720399 c:\qt\bank\login.h
+	<iostream>
+	<cstring>
+
+1492082424 source:c:\qt\bank\main.cpp
+	<iostream>
+	"bank.h"
+	<cstdlib>
+	"login.h"
+
+1494948688 source:c:\users\ali\desktop\bank\customer.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"accounts.h"
+	"Customer.h"
+	"person.h"
+
+1494948498 c:\users\ali\desktop\bank\customer.h
+	"accounts.h"
+	"person.h"
+	"login.h"
+
+1494948639 c:\users\ali\desktop\bank\person.h
+	<string>
+
+1491541112 source:c:\users\ali\desktop\bank\employee.cpp
+	"Employee.h"
+	"Customer.h"
+	"person.h"
+	<iostream>
+
+1492532583 c:\users\ali\desktop\bank\employee.h
+	"person.h"
+
+1494948639 source:c:\users\ali\desktop\bank\person.cpp
+	<cstdio>
+	"Customer.h"
+	"person.h"
+	<iostream>
+
+1492266960 c:\users\ali\desktop\bank\gotoxy.h
+	<windows.h>
+	<iostream>
+
+1494948378 source:c:\users\ali\desktop\bank\accounts.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"accounts.h"
+
+1493441903 c:\users\ali\desktop\bank\accounts.h
+	<iostream>
+
+1493442150 source:c:\users\ali\desktop\bank\savings.cpp
+	<iostream>
+	"accounts.h"
+	"savings.h"
+
+1493141480 c:\users\ali\desktop\bank\savings.h
+	<iostream>
+	"accounts.h"
+
+1494953828 source:c:\users\ali\desktop\bank\manager.cpp
+	<iostream>
+	<fstream>
+	"manager.h"
+	"Customer.h"
+
+1494946792 c:\users\ali\desktop\bank\manager.h
+	<iostream>
+	"Employee.h"
+	"Customer.h"
+	"accounts.h"
+	"login.h"
+
+1494065546 c:\users\ali\desktop\bank\teller.h
+	<iostream>
+
+1494953899 source:c:\users\ali\desktop\bank\teller.cpp
+	<iostream>
+	<fstream>
+	"teller.h"
+
+1494948380 source:c:\users\mr asus\downloads\compressed\bank\bank\accounts.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"accounts.h"
+
+1493441904 c:\users\mr asus\downloads\compressed\bank\bank\accounts.h
+	<iostream>
+
+1493141276 source:c:\users\mr asus\downloads\compressed\bank\bank\bank.cpp
+	"bank.h"
+	<cstring>
+	<iomanip>
+	"gotoxy.h"
+
+1493141300 c:\users\mr asus\downloads\compressed\bank\bank\bank.h
+	<iostream>
+
+1494948690 source:c:\users\mr asus\downloads\compressed\bank\bank\customer.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"accounts.h"
+	"Customer.h"
+	"person.h"
+
+1494948500 c:\users\mr asus\downloads\compressed\bank\bank\customer.h
+	"accounts.h"
+	"person.h"
+	"login.h"
+
+1494948640 c:\users\mr asus\downloads\compressed\bank\bank\person.h
+	<string>
+
+1494935770 c:\users\mr asus\downloads\compressed\bank\bank\login.h
+	<iostream>
+	<cstring>
+
+1491541112 source:c:\users\mr asus\downloads\compressed\bank\bank\employee.cpp
+	"Employee.h"
+	"Customer.h"
+	"person.h"
+	<iostream>
+
+1492532584 c:\users\mr asus\downloads\compressed\bank\bank\employee.h
+	"person.h"
+
+1494953236 source:c:\users\mr asus\downloads\compressed\bank\bank\login.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<string>
+	"login.h"
+	"gotoxy.h"
+
+1494948952 source:c:\users\mr asus\downloads\compressed\bank\bank\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"bank.h"
+	"login.h"
+	"person.h"
+	"Customer.h"
+	"Employee.h"
+	"gotoxy.h"
+	"accounts.h"
+	"teller.h"
+	"manager.h"
+
+1494065548 c:\users\mr asus\downloads\compressed\bank\bank\teller.h
+	<iostream>
+
+1494946794 c:\users\mr asus\downloads\compressed\bank\bank\manager.h
+	<iostream>
+	"Employee.h"
+	"Customer.h"
+	"accounts.h"
+	"login.h"
+
+1494953830 source:c:\users\mr asus\downloads\compressed\bank\bank\manager.cpp
+	<iostream>
+	<fstream>
+	"manager.h"
+	"Customer.h"
+
+1494948640 source:c:\users\mr asus\downloads\compressed\bank\bank\person.cpp
+	<cstdio>
+	"Customer.h"
+	"person.h"
+	<iostream>
+
+1493442152 source:c:\users\mr asus\downloads\compressed\bank\bank\savings.cpp
+	<iostream>
+	"accounts.h"
+	"savings.h"
+
+1493141482 c:\users\mr asus\downloads\compressed\bank\bank\savings.h
+	<iostream>
+	"accounts.h"
+
+1494953900 source:c:\users\mr asus\downloads\compressed\bank\bank\teller.cpp
+	<iostream>
+	<fstream>
+	"teller.h"
+
+1494948380 source:c:\users\mr asus\desktop\bank\accounts.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"accounts.h"
+
+1495477399 c:\users\mr asus\desktop\bank\accounts.h
+	<iostream>
+
+1495477947 source:c:\users\mr asus\desktop\bank\bank.cpp
+	"bank.h"
+	<cstring>
+	<iomanip>
+	"gotoxy.h"
+
+1495477922 c:\users\mr asus\desktop\bank\bank.h
+	<iostream>
+
+1495479046 source:c:\users\mr asus\desktop\bank\customer.cpp
+	"gotoxy.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"accounts.h"
+	"Customer.h"
+	"person.h"
+
+1494948500 c:\users\mr asus\desktop\bank\customer.h
+	"accounts.h"
+	"person.h"
+	"login.h"
+
+1494948640 c:\users\mr asus\desktop\bank\person.h
+	<string>
+
+1494935770 c:\users\mr asus\desktop\bank\login.h
+	<iostream>
+	<cstring>
+
+1491541112 source:c:\users\mr asus\desktop\bank\employee.cpp
+	"Employee.h"
+	"Customer.h"
+	"person.h"
+	<iostream>
+
+1492532584 c:\users\mr asus\desktop\bank\employee.h
+	"person.h"
+
+1495479873 source:c:\users\mr asus\desktop\bank\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"bank.h"
+	"login.h"
+	"person.h"
+	"Customer.h"
+	"Employee.h"
+	"gotoxy.h"
+	"accounts.h"
+	"teller.h"
+	"manager.h"
+
+1494065548 c:\users\mr asus\desktop\bank\teller.h
+	<iostream>
+
+1494946794 c:\users\mr asus\desktop\bank\manager.h
+	<iostream>
+	"Employee.h"
+	"Customer.h"
+	"accounts.h"
+	"login.h"
+
+1495477399 source:c:\users\mr asus\desktop\bank\manager.cpp
+	<iostream>
+	<fstream>
+	"manager.h"
+	"Customer.h"
+
+1495476839 source:c:\users\mr asus\desktop\bank\person.cpp
+	<cstdio>
+	"Customer.h"
+	"person.h"
+	<iostream>
+	<string>
+
+1493442152 source:c:\users\mr asus\desktop\bank\savings.cpp
+	<iostream>
+	"accounts.h"
+	"savings.h"
+
+1493141482 c:\users\mr asus\desktop\bank\savings.h
+	<iostream>
+	"accounts.h"
+
+1494953900 source:c:\users\mr asus\desktop\bank\teller.cpp
+	<iostream>
+	<fstream>
+	"teller.h"
+
+1495471516 c:\users\mr asus\desktop\bank\gotoxy.h
+	<windows.h>
+	<iostream>
+
+1495479234 source:c:\users\mr asus\desktop\bank\login.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<string>
+	"login.h"
+	"gotoxy.h"
+
